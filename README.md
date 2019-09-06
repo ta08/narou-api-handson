@@ -7,7 +7,7 @@ This is an unofficial repository to learn how to use narou-api(小説家にな�
 
 - [Notice](#notice)
 - [Chapter](#chapter)
-    - [Chapter 01](#chapter-01)
+    - [Briefly go through](#briefly-go-through)
 
 <!-- /TOC -->
 
@@ -27,7 +27,7 @@ Please do not misunderstand it.
 ## Chapter
 <a id="markdown-chapter" name="chapter"></a>
 
-### Chapter 01
-<a id="markdown-chapter-01" name="chapter-01"></a>
+### 01. Briefly go through
+<a id="markdown-briefly-go-through" name="briefly-go-through"></a>
 
 We briefly go through with fetching data, processing, visualization.
